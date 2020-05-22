@@ -28,7 +28,7 @@ router.post('/', function(req, res, next) {
     console.log("The error is: ", error);
     console.log("The body:", body);
   });
-  res.redirect('/');
+  res.redirect('/login');
 });
 
 module.exports = router;
