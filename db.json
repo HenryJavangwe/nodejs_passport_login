@@ -1,14 +1,28 @@
 {
-    "userData":[
-        {
-            "username": "1",
-            "email": "Pikachu@1",
-            "password": "Pikachu"
-        },
-        {
-            "username": "2",
-            "email": "Pikachu@2",
-            "password": "Pikachu"
-        }
-    ]
+  "usersDb": [
+    {
+      "id": "1",
+      "username": "1",
+      "email": "Pikachu@1",
+      "password": "Pikachu"
+    },
+    {
+      "id": "1",
+      "username": "2",
+      "email": "Pikachu@2",
+      "password": "Pikachu"
+    },
+    {
+      "id": "3",
+      "Username": "Henry",
+      "email": "h@123",
+      "Password": "1234"
+    },
+    {
+      "id": "4",
+      "Username": "Henry",
+      "email": "henrysparks@g",
+      "Password": "Heineken"
+    }
+  ]
 }
